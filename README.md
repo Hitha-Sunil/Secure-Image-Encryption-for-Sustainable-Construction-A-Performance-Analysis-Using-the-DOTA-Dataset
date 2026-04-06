@@ -21,6 +21,7 @@ Transformer-Based Encryption (Vision Transformer-inspired)
 | **UACI (%)**     | 29.31       | 26.27  | 3.01        | 26.00   |
 | **Accuracy (%)** | 97.15       | 91.18  | 98.04       | 98.00   |
 
+
 🧠 Methodology Summary
 🔹 Autoencoder-Based Method
 Fully connected encoder-decoder architecture
@@ -48,8 +49,8 @@ UACI – Intensity variation
 Entropy – Randomness
 Classification Accuracy
 PCA & t-SNE – Feature preservation
-📊 Visualizations
 
+📊 Visualizations
 The project includes:
 
 SSIM Distribution Plots
